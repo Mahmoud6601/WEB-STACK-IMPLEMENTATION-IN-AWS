@@ -1,4 +1,4 @@
-# WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
+# WEB STACK IMPLEMENTATION IN AWS
 
 This project demonstrates the implementation of a LAMP (Linux, Apache, MySQL, PHP) stack on an AWS EC2 instance. The LAMP stack is a popular open-source web development platform that uses Linux as the operating system, Apache as the web server, MySQL as the relational database management system, and PHP as the scripting language.
 
